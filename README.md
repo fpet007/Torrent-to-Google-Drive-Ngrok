@@ -1,7 +1,7 @@
 # Torrents-to-Google-Drive-Ngrok traduit en Français
 [![Generic badge](https://img.shields.io/badge/Author-fpet007-green)](https://shields.io/)
 
-Il s'agit d'un ordinateur portable Google Colab avec LocalTunnel + Rclone + QBittorrent, qui peut télécharger des torrents sur Onedrive.
+Il s'agit d'un ordinateur portable Google Colab avec Ngrok + QBittorrent, qui peut télécharger des torrents sur Google Drive.
 
 
 
